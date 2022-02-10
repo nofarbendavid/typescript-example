@@ -99,7 +99,7 @@
     "jest-enzyme": "7.0.2",
     "lint-staged": "8.1.5",
     "mimic": "2.0.9",
-    "node-sass": "4.12.0",
+    "node-sass": "7.0.0",
     "prettier": "1.16.4",
     "react-docgen-typescript-loader": "3.1.1",
     "react-docgen-typescript-webpack-plugin": "1.1.0",
